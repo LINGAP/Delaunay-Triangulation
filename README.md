@@ -1,5 +1,5 @@
 # Delaunay-Triangulation
-Thanks to https://www.cnblogs.com/zhiyishou/p/4430017.html which provided a optimized algorithm for delaunay triangulation.
+Thanks to https://www.cnblogs.com/zhiyishou/p/4430017.html which provides an optimized algorithm for delaunay triangulation.
 Implemented Delaunay Triangulation in Python.
 ## Class included:
   Tkinter Test board: graphics debugging
